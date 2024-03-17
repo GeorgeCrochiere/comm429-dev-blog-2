@@ -38,3 +38,23 @@ img {
     display: block;
     margin: auto;
 }
+
+.njk-layout-boundry {
+    color: #b10f45;
+}
+
+.njk-layout-name {
+    color: #df2e2e;
+}
+
+.njk-layout-parameter {
+    color: #47e694;
+}
+
+.njk-layout-number {
+    color: #e98c21;
+}
+
+.njk-layout-indexing {
+    color: #1edde4;
+}

@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://unpkg.com/bamboo.css/dist/dark.min.css">
 <link rel="stylesheet" href="./src/css/styles.css">
+<script src="./src/js/syntaxHighlight.js" defer></script>
 
 # Pagination in Static Site Development - Eleventy & TailwindCSS
 George D. Crochiere
